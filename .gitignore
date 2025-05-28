@@ -6,6 +6,8 @@ __pycache__/
 # C extensions
 *.so
 kaggle.json
+sentiment140.zip
+
 # Distribution / packaging
 .Python
 build/
