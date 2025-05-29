@@ -7,6 +7,7 @@ __pycache__/
 *.so
 kaggle.json
 sentiment140.zip
+training.1600000.csv
 
 # Distribution / packaging
 .Python
